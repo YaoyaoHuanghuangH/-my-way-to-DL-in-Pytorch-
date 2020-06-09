@@ -5,4 +5,4 @@
 
 针对不懂的地方做了一些自己的注解
 
-Follow some work done by Dive-into-DL-PyTorch
+ some follow work done by Dive-into-DL-PyTorch
